@@ -1,0 +1,8 @@
+#CentOS-fasttrack.repo
+
+[fasttrack]
+name=CentOS-7 - fasttrack
+baseurl=http://vault.centos.org/7.9.2009/fasttrack/x86_64/
+gpgcheck=0
+enable=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
