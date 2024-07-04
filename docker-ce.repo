@@ -1,0 +1,6 @@
+[docker-main-repo]
+name=Docker main Repository
+baseurl=http://mirrors.aliyun.com/docker-engine/yum/repo/main/centos/7
+enabled=1
+gpgcheck=1
+gpgkey=http://mirrors.aliyun.com/docker-engine/yum/gpg
